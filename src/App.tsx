@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { RouteApp } from './Route'
 import viteLogo from '/vite.svg'
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <div className="text-3xl font-bold underline">
-      Ola mundo!
+      <RouteApp />
     </div>
   )
 }
