@@ -2,7 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    background-color: #121212;
-    color: #FFFFFF;
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.content-app {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 25px;
 }

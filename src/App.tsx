@@ -1,13 +1,14 @@
 import { useState } from 'react'
-import { RouteApp } from './Route'
-import viteLogo from '/vite.svg'
+import Profile from './Components/Profile'
+import Abount from './page/Abount/Index'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="text-3xl font-bold underline">
-      <RouteApp />
+    <div className="content-app mt-16">
+      <Profile />
+      <Abount />
     </div>
   )
 }
