@@ -1,9 +1,10 @@
 import Navbar from "../../Components/Navbar";
 
-export default function Abount() {
+export default function Contact() {
     return (
-        <section>
+        <div>
             <Navbar/>
-        </section>
+
+        </div>        
     )
 }
