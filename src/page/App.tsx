@@ -1,8 +1,7 @@
 import { useState } from 'react'
-import Navbar from '../Components/Navbar'
 import Profile from '../Components/Profile'
 import { RouteApp } from '../Route'
-import Abount from './Abount/Index'
+
 
 function App() {
   const [count, setCount] = useState(0)

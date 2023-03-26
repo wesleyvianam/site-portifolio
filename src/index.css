@@ -12,3 +12,14 @@
     align-items: stretch;
     gap: 25px;
 }
+
+.bg-gradient-card {
+    background: linear-gradient(
+        to bottom right, 
+        hsl(0, 0%, 25%) 0%, 
+        hsla(0, 0%, 25%, 0) 50%
+    );
+    padding: 1.3px;
+}
+
+

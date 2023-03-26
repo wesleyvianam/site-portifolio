@@ -7,7 +7,7 @@ import {FiYoutube} from 'react-icons/fi'
 
 export default function Profile() {
     return (
-        <aside className='py-14 border-2 border-[#383838] px-8 bg-[#1e1e1f] rounded-3xl mr-4 w-[20rem] sticky'>
+        <aside className='py-14 border-2 border-[#383838] px-8 bg-[#1e1e1f] rounded-3xl w-[20rem] sticky'>
             
             <div>
                 <figure className="flex justify-center">
@@ -27,9 +27,9 @@ export default function Profile() {
 
                 <ul>
                     <li className='flex mb-8'>
-                        <div className='p-[1px] bg-gradient-to-tl from-[#1e1e1f] to-white rounded-lg mr-2'>
-                            <div className='bg-[#1e1e1f] p-[13px] rounded-lg'>
-                                <FiMail className='text-[#ffdb70]' />
+                        <div className='bg-gradient-card rounded-lg mr-2'>
+                            <div className='bg-[#202022] p-[13px] rounded-lg'>
+                                <FiMail className='text-gold-color' />
                             </div>
                         </div>
                         <div>
@@ -38,9 +38,9 @@ export default function Profile() {
                         </div>
                     </li>
                     <li className='flex mb-8'>
-                        <div className='p-[1px] bg-gradient-to-tl from-[#1e1e1f] to-white rounded-lg mr-2'>
-                            <div className='bg-[#1e1e1f] p-[13px] rounded-lg'>
-                                <BsPhone className='text-[#ffdb70]' />
+                        <div className='bg-gradient-card rounded-lg mr-2'>
+                            <div className='bg-[#202022] p-[13px] rounded-lg'>
+                                <BsPhone className='text-gold-color' />
                             </div>
                         </div>
                         <div>
@@ -49,9 +49,9 @@ export default function Profile() {
                         </div>
                     </li>
                     <li className='flex mb-8'>
-                        <div className='p-[1px] bg-gradient-to-tl from-[#1e1e1f] to-white rounded-lg mr-2'>
-                            <div className='bg-[#1e1e1f] p-[13px] rounded-lg'>
-                                <BsCalendar3 className='text-[#ffdb70]' />
+                        <div className='bg-gradient-card rounded-lg mr-2'>
+                            <div className='bg-[#202022] p-[13px] rounded-lg'>
+                                <BsCalendar3 className='text-gold-color' />
                             </div>
                         </div>
                         <div>
@@ -60,9 +60,9 @@ export default function Profile() {
                         </div>
                     </li>
                     <li className='flex mb-8'>
-                        <div className='p-[1px] bg-gradient-to-tl from-[#1e1e1f] to-white rounded-lg mr-2'>
-                            <div className='bg-[#1e1e1f] p-[13px] rounded-lg'>
-                                <SlLocationPin className='text-[#ffdb70]' />
+                        <div className='bg-gradient-card rounded-lg mr-2'>
+                            <div className='bg-[#202022] p-[13px] rounded-lg'>
+                                <SlLocationPin className='text-gold-color' />
                             </div>
                         </div>
                         <div>
