@@ -7,7 +7,7 @@ import {FiYoutube} from 'react-icons/fi'
 
 export default function Profile() {
     return (
-        <aside className='py-14 border-2 border-[#383838] px-8 bg-[#1e1e1f] rounded-3xl w-[20rem] sticky'>
+        <aside className='py-14 border-2 border-[#383838] px-8 bg-[#1e1e1f] rounded-3xl w-[20rem] sticky h-[755px]'>
             
             <div>
                 <figure className="flex justify-center">

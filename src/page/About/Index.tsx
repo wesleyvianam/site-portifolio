@@ -13,7 +13,7 @@ export default function About() {
             <Navbar children={'About'}/>
 
             <div className="px-8">
-                <p className="pb-2">Lorem ipsum dolor, reprehenderit aliquam deserunt ex dolor, incidunt sit sunt provident perferendis dignissimos quia, dolorum, eligendi enim possimus fuga error inventore.</p>
+                <p className="pb-5">Lorem ipsum dolor, reprehenderit aliquam deserunt ex dolor, incidunt sit sunt provident perferendis dignissimos quia, dolorum, eligendi enim possimus fuga error inventore.</p>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat similique molestiae reprehenderit aliquam deserunt ex dolor, incidunt sit sunt provident perferendis dignissimos quia, dolorum, eligendi enim possimus fuga error inventore.</p>
             </div>
 
