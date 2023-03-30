@@ -16,7 +16,7 @@ export default function Contact() {
                 </div>
                 
                 <label htmlFor="message"></label>
-                <textarea name="message" id="message" rows="10" placeholder="Your Message" className="p-3 rounded-xl border w-[100%] mt-4"></textarea>
+                <textarea name="message" id="message" placeholder="Your Message" className="p-3 rounded-xl border w-[100%] mt-4 h-52"></textarea>
 
                 <div className="mt-4 flex justify-end">
                     <div className="bg-gradient-card rounded-xl">

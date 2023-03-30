@@ -1,3 +1,4 @@
+import React from 'react';
 import avatar from '../../assets/image/profile.jpg';
 import {FiMail} from 'react-icons/fi';
 import {BsPhone, BsCalendar3, BsInstagram} from 'react-icons/bs';
@@ -6,8 +7,9 @@ import {TbBrandLinkedin} from 'react-icons/tb';
 import {FiYoutube} from 'react-icons/fi'
 
 export default function Profile() {
+  
     return (
-        <aside className='py-14 border-2 border-[#383838] px-8 bg-[#1e1e1f] rounded-3xl w-[20rem] sticky h-[755px]'>
+        <aside className='py-14 border-2 border-[#383838] px-8 bg-[#1e1e1f] rounded-3xl w-[20rem] sticky h-[700px]'>
             
             <div>
                 <figure className="flex justify-center">
@@ -35,17 +37,6 @@ export default function Profile() {
                         <div>
                             <span>EMAIL</span>
                             <p className='text-sm'>wesleyviana@vivaldi.net</p>
-                        </div>
-                    </li>
-                    <li className='flex mb-8'>
-                        <div className='bg-gradient-card rounded-lg mr-2'>
-                            <div className='bg-[#202022] p-[13px] rounded-lg'>
-                                <BsPhone className='text-gold-color' />
-                            </div>
-                        </div>
-                        <div>
-                            <span>PHONE</span>
-                            <p className='text-sm'>(38) 9 9119-8109</p>
                         </div>
                     </li>
                     <li className='flex mb-8'>
