@@ -65,17 +65,17 @@ export default function Profile() {
 
                 <ul className='flex justify-center items-center text-[#d6d6d6b3]'>
                     <li>
-                        <a href="#">
+                        <a href="https://www.linkedin.com/in/wesley-viana/" target="_blank">
                             <TbBrandLinkedin size={20}/>
                         </a>
                     </li>
                     <li className='mx-3'>
-                        <a href="#">
+                        <a href="#" target="_blank">
                             <FiYoutube size={22}/>
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="https://www.instagram.com/vwesley_martins/" target="_blank">
                             <BsInstagram size={16}/>
                         </a>
                     </li>

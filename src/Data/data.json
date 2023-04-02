@@ -1,0 +1,281 @@
+[
+    {
+        "id": 1,
+        "title": "Employee Manager",
+        "image": {
+            "img1": "/src/assets/image/employee2.png",
+            "img2": "/src/assets/image/employee2.png",
+            "img3": "/src/assets/image/employee2.png"
+        },
+        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "tags": {
+            "id": 2,
+            "label": "Back-end"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "Laravel"
+            },
+            {
+                "id": 2,
+                "label": "Symfony"
+            },
+            {
+                "id": 3,
+                "label": "React"
+            },
+            {
+                "id": 4,
+                "label": "Node"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "ERP Magnetico",
+        "image": {
+            "img1": "/src/assets/image/employee2.png",
+            "img2": "/src/assets/image/employee2.png",
+            "img3": "/src/assets/image/employee2.png"
+        },
+        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "tags": {
+            "id": 2,
+            "label": "Back-end"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "PHP"
+            },
+            {
+                "id": 2,
+                "label": "Java"
+            },
+            {
+                "id": 3,
+                "label": "Sass"
+            },
+            {
+                "id": 4,
+                "label": "Styled Components"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Titulo Projeto 3",
+        "image": {
+            "img1": "/src/assets/image/employee2.png",
+            "img2": "/src/assets/image/employee2.png",
+            "img3": "/src/assets/image/employee2.png"
+        },
+        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "tags": {
+            "id": 3,
+            "label": "Front-end"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "Laravel"
+            },
+            {
+                "id": 2,
+                "label": "Symfony"
+            },
+            {
+                "id": 3,
+                "label": "React"
+            },
+            {
+                "id": 4,
+                "label": "Node"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Titulo Projeto",
+        "image": {
+            "img1": "/src/assets/image/employee2.png",
+            "img2": "/src/assets/image/employee2.png",
+            "img3": "/src/assets/image/employee2.png"
+        },
+        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "tags": {
+            "id": 4,
+            "label": "Mobile"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Titulo Projeto 3",
+        "image": {
+            "img1": "/src/assets/image/employee2.png",
+            "img2": "/src/assets/image/employee2.png",
+            "img3": "/src/assets/image/employee2.png"
+        },
+        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "tags": {
+            "id": 5,
+            "label": "Design"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "Laravel"
+            },
+            {
+                "id": 2,
+                "label": "Symfony"
+            },
+            {
+                "id": 3,
+                "label": "React"
+            },
+            {
+                "id": 4,
+                "label": "Node"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Titulo Projeto 3",
+        "image": {
+            "img1": "/src/assets/image/employee2.png",
+            "img2": "/src/assets/image/employee2.png",
+            "img3": "/src/assets/image/employee2.png"
+        },
+        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "tags": {
+            "id": 5,
+            "label": "Design"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "Laravel"
+            },
+            {
+                "id": 2,
+                "label": "Symfony"
+            },
+            {
+                "id": 3,
+                "label": "React"
+            },
+            {
+                "id": 4,
+                "label": "Node"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Titulo Projeto 3",
+        "image": {
+            "img1": "/src/assets/image/employee2.png",
+            "img2": "/src/assets/image/employee2.png",
+            "img3": "/src/assets/image/employee2.png"
+        },
+        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "tags": {
+            "id": 4,
+            "label": "Mobile"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "Laravel"
+            },
+            {
+                "id": 2,
+                "label": "Symfony"
+            },
+            {
+                "id": 3,
+                "label": "React"
+            },
+            {
+                "id": 4,
+                "label": "Node"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Titulo Projeto 3",
+        "image": {
+            "img1": "/src/assets/image/employee2.png",
+            "img2": "/src/assets/image/employee2.png",
+            "img3": "/src/assets/image/employee2.png"
+        },
+        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "tags": {
+            "id": 1,
+            "label": "Full-stack"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "Laravel"
+            },
+            {
+                "id": 2,
+                "label": "Symfony"
+            },
+            {
+                "id": 3,
+                "label": "React"
+            },
+            {
+                "id": 4,
+                "label": "Node"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Titulo Projeto 3",
+        "image": {
+            "img1": "/src/assets/image/employee2.png",
+            "img2": "/src/assets/image/employee2.png",
+            "img3": "/src/assets/image/employee2.png"
+        },
+        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "tags": {
+            "id": 1,
+            "label": "Full-stack"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "Laravel"
+            },
+            {
+                "id": 2,
+                "label": "Symfony"
+            },
+            {
+                "id": 3,
+                "label": "React"
+            },
+            {
+                "id": 4,
+                "label": "Node"
+            }
+        ]
+    }
+]

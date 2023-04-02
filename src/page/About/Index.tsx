@@ -1,11 +1,6 @@
 import Navbar from "../../Components/Navbar";
 import webDesign from '../../assets/image/icon-design.svg';
 import webDev from '../../assets/image/icon-dev.svg';
-import app from '../../assets/image/icon-app.svg';
-import photo from '../../assets/image/icon-photo.svg';
-import papai from '../../assets/image/papai.jpg';
-import keke from '../../assets/image/keke.jpg';
-import miller from '../../assets/image/miller.jpg';
 
 export default function About() {
     return (
@@ -23,17 +18,6 @@ export default function About() {
                     <li className="bg-gradient-card rounded-xl mr-2">
                         <div className="flex rounded-xl bg-[#202022]">
                             <div className="p-6">
-                                <img src={webDesign} width={60} />
-                            </div>
-                            <div className="py-6 pr-4">
-                                <h4 className="font-semibold">Web Design</h4>
-                                <p className="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li className="bg-gradient-card rounded-xl mr-2">
-                        <div className="flex rounded-xl bg-[#202022]">
-                            <div className="p-6">
                                 <img src={webDev}  width={60}/>
                             </div>
                             <div className="py-6 pr-4">
@@ -45,21 +29,10 @@ export default function About() {
                     <li className="bg-gradient-card rounded-xl mr-2">
                         <div className="flex rounded-xl bg-[#202022]">
                             <div className="p-6">
-                                <img src={app}  width={60}  />
+                                <img src={webDesign} width={60} />
                             </div>
                             <div className="py-6 pr-4">
-                                <h4 className="font-semibold">Mobile Apps</h4>
-                                <p className="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li className="bg-gradient-card rounded-xl mr-2">
-                        <div className="flex rounded-xl bg-[#202022]">
-                            <div className="p-6">
-                                <img src={photo}  width={60} />
-                            </div>
-                            <div className="py-6 pr-4">
-                                <h4 className="font-semibold">Photography</h4>
+                                <h4 className="font-semibold">Web Design</h4>
                                 <p className="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             </div>
                         </div>

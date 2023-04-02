@@ -22,4 +22,23 @@
     padding: 1.3px;
 }
 
+body::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+body::-webkit-scrollbar-track {
+    background: transparent;
+
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #747474;
+    border-radius: 20px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+    transition: 1s;
+    background-color: #3d3d3d;
+}
+
 
