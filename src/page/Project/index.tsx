@@ -13,10 +13,10 @@ export default function Project() {
 
   return (
     <div className="p-8">
-      <div className="flex justify-between pb-5">
+      <div className="flex justify-between pb-3">
         <h1 className="text-2xl font-bold">
           {project.title}
-          <a href={project.repository} target="_blank" className="flex items-center text-gold-color text-sm">
+          <a href={project.repository} target="_blank" className="pt-1 flex items-center text-gold-color text-sm">
             <BsGithub className="text-lg mr-1" />
             Project in Github
           </a>
@@ -45,13 +45,6 @@ export default function Project() {
         
         <p>{project.descricao}</p>
 
-        {/* <div className="grid grid-cols-3 gap-4 pt-6">
-          <div></div>
-          <div className="bg-gradient-card rounded-xl text-gold-color ">
-            
-          </div>
-          <div></div>
-        </div> */}
       </div>  
 
       <Skills technologies={project.technologies}/>

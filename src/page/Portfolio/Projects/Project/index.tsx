@@ -7,10 +7,10 @@ export default function Project(props: TProject) {
 
     return (
       <li>
-          <button type='button' onClick={() => navigate(`/project/${id}`)}>
-            <img src={image.img1} alt={title} className="rounded-xl hover:scale-105 duration-500" />
-            <h2 className='font-medium'>{title}</h2>
+          <button type='button' onClick={() => navigate(`/project/${id}`)} className="rounded-xl flex items-center h-[191px] bg-white">
+            <img src={image.img1} alt={title} className="hover:scale-95 duration-500 rounded-xl" />
           </button>
+          <h2 className='font-medium'>{title}</h2>
       </li>
     )
 }

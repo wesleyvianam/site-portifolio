@@ -1,6 +1,7 @@
 import {GiElephant} from 'react-icons/gi'
 import {FaSymfony, FaLaravel, FaJava} from 'react-icons/fa'
-import {SiTypescript, SiJavascript, SiReact, SiTailwindcss, SiSass, SiStyledcomponents, SiNodedotjs} from 'react-icons/si'
+import {SiTypescript, SiJavascript, SiReact, SiTailwindcss, SiSass, SiStyledcomponents, SiNodedotjs } from 'react-icons/si'
+import {TbBrandBootstrap, TbBrandHtml5} from 'react-icons/tb'
 
 interface ILabel {
   label: string
@@ -51,6 +52,14 @@ export default function Icon({label}: ILabel) {
     {
       "id": 'Node',
       "icon": <SiNodedotjs className='text-3xl mr-3' />,
+    },
+    {
+      "id": 'Bootstrap',
+      "icon": <TbBrandBootstrap className='text-3xl mr-3' />
+    },
+    {
+      "id": 'HTML',
+      "icon": <TbBrandHtml5 className='text-3xl mr-3' />
     }
   ];
   

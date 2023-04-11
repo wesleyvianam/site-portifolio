@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "title": "Employee Manager",
+        "title": "Series Control Symfony",
         "image": {
-            "img1": "/src/assets/image/employee2.png",
-            "img2": "/src/assets/image/employee2.png",
-            "img3": "/src/assets/image/employee2.png"
+            "img1": "/src/assets/image/seriesSym/series.png",
+            "img2": "/src/assets/image/seriesSym/login.png",
+            "img3": "/src/assets/image/seriesSym/episodios.png"
         },
-        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
-        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "descricao": "Projeto full-stack realizado em treinamentos de Symfony realizado na Alura, com o professor Vinicius Dias. No projeto foi realizado Systema de Login, o crud de séries, temporadas e episódios. e criado um algorítimo para salvar os episódios já assistidos.",
+        "repository": "https://github.com/wesleyvianam/series-control-symfony",
         "tags": {
-            "id": 2,
-            "label": "Back-end"
+            "id": 1,
+            "label": "Full-stack"
         },
         "technologies": [
             {
                 "id": 1,
-                "label": "Laravel"
+                "label": "PHP"
             },
             {
                 "id": 2,
@@ -24,11 +24,11 @@
             },
             {
                 "id": 3,
-                "label": "React"
+                "label": "HTML"
             },
             {
                 "id": 4,
-                "label": "Node"
+                "label": "Bootstrap"
             }
         ]
     },
@@ -67,7 +67,7 @@
     },
     {
         "id": 3,
-        "title": "Titulo Projeto 3",
+        "title": "Titulo Projeto",
         "image": {
             "img1": "/src/assets/image/employee2.png",
             "img2": "/src/assets/image/employee2.png",
@@ -100,7 +100,7 @@
     },
     {
         "id": 4,
-        "title": "Titulo Projeto",
+        "title": "Projeto Titulo",
         "image": {
             "img1": "/src/assets/image/employee2.png",
             "img2": "/src/assets/image/employee2.png",
@@ -115,7 +115,7 @@
     },
     {
         "id": 5,
-        "title": "Titulo Projeto 3",
+        "title": "Titulo Found",
         "image": {
             "img1": "/src/assets/image/employee2.png",
             "img2": "/src/assets/image/employee2.png",
@@ -148,7 +148,7 @@
     },
     {
         "id": 6,
-        "title": "Titulo Projeto 3",
+        "title": "CRM Magnético",
         "image": {
             "img1": "/src/assets/image/employee2.png",
             "img2": "/src/assets/image/employee2.png",
@@ -181,7 +181,7 @@
     },
     {
         "id": 7,
-        "title": "Titulo Projeto 3",
+        "title": "Rede Neural",
         "image": {
             "img1": "/src/assets/image/employee2.png",
             "img2": "/src/assets/image/employee2.png",
@@ -214,7 +214,7 @@
     },
     {
         "id": 8,
-        "title": "Titulo Projeto 3",
+        "title": "E-commerce",
         "image": {
             "img1": "/src/assets/image/employee2.png",
             "img2": "/src/assets/image/employee2.png",
@@ -247,7 +247,7 @@
     },
     {
         "id": 9,
-        "title": "Titulo Projeto 3",
+        "title": "Loja Virtual",
         "image": {
             "img1": "/src/assets/image/employee2.png",
             "img2": "/src/assets/image/employee2.png",

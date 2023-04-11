@@ -23,7 +23,7 @@ export default function Education() {
                 <li className="ml-4 relative bottom-5 left-5 px-6">
                     <div className="absolute w-3 h-3 bg-gold-color rounded-full mt-1.5 -left-1.5 border-2 border-[#383838] dark:border-gray-900 dark:bg-gray-700"></div>
                     <div className="pb-2">
-                        <h3>Pós Graduação Engenharia de Software</h3>
+                        <h3 className="font-semibold text-lg">Pós Graduação Engenharia de Software</h3>
                         <small className="text-gold-color text-base">Universidade Estácio - 2023/2024</small>
                     </div>
                     <p>Lorem ipsumconsectetur adipisicing elit. Facere nam, eum vero hic id doloremque iste quasi error ipsa facilis.</p>
