@@ -1,7 +1,8 @@
 import {GiElephant} from 'react-icons/gi'
 import {FaSymfony, FaLaravel, FaJava} from 'react-icons/fa'
-import {SiTypescript, SiJavascript, SiReact, SiTailwindcss, SiSass, SiStyledcomponents, SiNodedotjs } from 'react-icons/si'
-import {TbBrandBootstrap, TbBrandHtml5} from 'react-icons/tb'
+import {SiSpring, SiMongodb, SiExpress, SiTypescript, SiJavascript, SiReact, SiTailwindcss, SiSass, SiStyledcomponents, SiNodedotjs } from 'react-icons/si'
+import {TbBrandBootstrap, TbBrandHtml5, TbBrandCss3} from 'react-icons/tb'
+import {VscJson} from 'react-icons/vsc'
 
 interface ILabel {
   label: string
@@ -60,6 +61,26 @@ export default function Icon({label}: ILabel) {
     {
       "id": 'HTML',
       "icon": <TbBrandHtml5 className='text-3xl mr-3' />
+    },
+    {
+      "id": 'Express',
+      "icon": <SiExpress className='text-3xl mr-3' />
+    },
+    {
+      "id": 'JSON',
+      "icon": <VscJson className='text-3xl mr-3' />
+    },
+    {
+      "id": 'MongoDB',
+      "icon": <SiMongodb className='text-3xl mr-3' />
+    },
+    {
+      "id": 'CSS',
+      "icon": <TbBrandCss3 className='text-3xl mr-3' />
+    },
+    {
+      "id": 'Spring Boot',
+      "icon": <SiSpring className='text-3xl mr-3' />
     }
   ];
   

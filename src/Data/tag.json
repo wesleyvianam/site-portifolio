@@ -1,22 +1,17 @@
 [
     {
-        "id": 1,
-        "label": "Full-stack"
+        "id": "Full-stack"
     },
     {
-        "id": 2,
-        "label": "Back-end"
+        "id": "Back-end"
     },
     {
-        "id": 3,
-        "label": "Front-end"
+        "id": "Front-end"
     },
     {
-        "id": 4,
-        "label": "Mobile"
+        "id": "Mobile"
     },
     {
-        "id": 5,
-        "label": "Design"
+        "id": "Design"
     }
 ]

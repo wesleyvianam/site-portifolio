@@ -2,16 +2,11 @@
     {
         "id": 1,
         "title": "Series Control Symfony",
-        "image": {
-            "img1": "/src/assets/image/seriesSym/series.png",
-            "img2": "/src/assets/image/seriesSym/login.png",
-            "img3": "/src/assets/image/seriesSym/episodios.png"
-        },
-        "descricao": "Projeto full-stack realizado em treinamentos de Symfony realizado na Alura, com o professor Vinicius Dias. No projeto foi realizado Systema de Login, o crud de séries, temporadas e episódios. e criado um algorítimo para salvar os episódios já assistidos.",
+        "image": "/src/assets/image/series.png",
+        "descricao": "Projeto full-stack realizado em treinamentos de Symfony realizado na Alura, com o professor Vinicius Dias. No projeto foi realizado Sistema de Login, o crud de séries, temporadas e episódios. e criado um algorítimo para salvar os episódios já assistidos.",
         "repository": "https://github.com/wesleyvianam/series-control-symfony",
         "tags": {
-            "id": 1,
-            "label": "Full-stack"
+            "id": "Full-stack"
         },
         "technologies": [
             {
@@ -34,17 +29,132 @@
     },
     {
         "id": 2,
-        "title": "ERP Magnetico",
-        "image": {
-            "img1": "/src/assets/image/employee2.png",
-            "img2": "/src/assets/image/employee2.png",
-            "img3": "/src/assets/image/employee2.png"
+        "title": "Library",
+        "image": "/src/assets/image/library.png",
+        "descricao": "API Rest em NodeJs, Express e MongoDB. Projeto realizado em treinamento Alura.",
+        "repository": "https://github.com/wesleyvianam/livraria-alura",
+        "tags": {
+            "id": "Back-end"
         },
-        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
+        "technologies": [
+            {
+                "id": 1,
+                "label": "Node"
+            },
+            {
+                "id": 2,
+                "label": "Express"
+            },
+            {
+                "id": 3,
+                "label": "JSON"
+            },
+            {
+                "id": 4,
+                "label": "MongoDB"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Comunidade Skate",
+        "image": "/src/assets/image/comunidadeSkate.png",
+        "descricao": "Projeto realizado em treinamento front-end Alura.",
+        "repository": "https://github.com/wesleyvianam/comunidade-skate-alura",
+        "tags": {
+            "id": "Front-end"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "HTML"
+            },
+            {
+                "id": 2,
+                "label": "CSS"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Consultorio Vollmed",
+        "image": "/src/assets/image/spring.png",
+        "descricao": "Projeto java realizado em treinamento Alura.",
+        "repository": "https://github.com/wesleyvianam/api-consutorio",
+        "tags": {
+            "id": "Back-end"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "Java"
+            },
+            {
+                "id": 2,
+                "label": "Spring Boot"
+            },
+            {
+                "id": 3,
+                "label": "JSON"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Alura Plus",
+        "image": "/src/assets/image/aluraplus.png",
+        "descricao": "Projeto front-end realizado em treinamento Alura.",
+        "repository": "https://github.com/wesleyvianam/aluroni",
+        "tags": {
+            "id": "Front-end"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "HTML"
+            },
+            {
+                "id": 2,
+                "label": "CSS"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Aluroni",
+        "image": "/src/assets/image/aluroni.png",
+        "descricao": "Projeto front end realizado em treinamento Alura.",
         "repository": "https://github.com/wesleyvianam?tab=repositories",
         "tags": {
-            "id": 2,
-            "label": "Back-end"
+            "id": "Design"
+        },
+        "technologies": [
+            {
+                "id": 1,
+                "label": "React"
+            },
+            {
+                "id": 2,
+                "label": "TypeScript"
+            },
+            {
+                "id": 1,
+                "label": "HTML"
+            },
+            {
+                "id": 2,
+                "label": "Sass"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Aluraplay",
+        "image": "/src/assets/image/aluraplay.png",
+        "descricao": "Projeto realizado em treinamento Alura.",
+        "repository": "https://github.com/wesleyvianam/aluraplay",
+        "tags": {
+            "id": "Full-stack"
         },
         "technologies": [
             {
@@ -53,228 +163,63 @@
             },
             {
                 "id": 2,
-                "label": "Java"
+                "label": "HTML"
             },
             {
                 "id": 3,
-                "label": "Sass"
-            },
-            {
-                "id": 4,
-                "label": "Styled Components"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "title": "Titulo Projeto",
-        "image": {
-            "img1": "/src/assets/image/employee2.png",
-            "img2": "/src/assets/image/employee2.png",
-            "img3": "/src/assets/image/employee2.png"
-        },
-        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
-        "repository": "https://github.com/wesleyvianam?tab=repositories",
-        "tags": {
-            "id": 3,
-            "label": "Front-end"
-        },
-        "technologies": [
-            {
-                "id": 1,
-                "label": "Laravel"
-            },
-            {
-                "id": 2,
-                "label": "Symfony"
-            },
-            {
-                "id": 3,
-                "label": "React"
-            },
-            {
-                "id": 4,
-                "label": "Node"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "title": "Projeto Titulo",
-        "image": {
-            "img1": "/src/assets/image/employee2.png",
-            "img2": "/src/assets/image/employee2.png",
-            "img3": "/src/assets/image/employee2.png"
-        },
-        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
-        "repository": "https://github.com/wesleyvianam?tab=repositories",
-        "tags": {
-            "id": 4,
-            "label": "Mobile"
-        }
-    },
-    {
-        "id": 5,
-        "title": "Titulo Found",
-        "image": {
-            "img1": "/src/assets/image/employee2.png",
-            "img2": "/src/assets/image/employee2.png",
-            "img3": "/src/assets/image/employee2.png"
-        },
-        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
-        "repository": "https://github.com/wesleyvianam?tab=repositories",
-        "tags": {
-            "id": 5,
-            "label": "Design"
-        },
-        "technologies": [
-            {
-                "id": 1,
-                "label": "Laravel"
-            },
-            {
-                "id": 2,
-                "label": "Symfony"
-            },
-            {
-                "id": 3,
-                "label": "React"
-            },
-            {
-                "id": 4,
-                "label": "Node"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "title": "CRM Magnético",
-        "image": {
-            "img1": "/src/assets/image/employee2.png",
-            "img2": "/src/assets/image/employee2.png",
-            "img3": "/src/assets/image/employee2.png"
-        },
-        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
-        "repository": "https://github.com/wesleyvianam?tab=repositories",
-        "tags": {
-            "id": 5,
-            "label": "Design"
-        },
-        "technologies": [
-            {
-                "id": 1,
-                "label": "Laravel"
-            },
-            {
-                "id": 2,
-                "label": "Symfony"
-            },
-            {
-                "id": 3,
-                "label": "React"
-            },
-            {
-                "id": 4,
-                "label": "Node"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "title": "Rede Neural",
-        "image": {
-            "img1": "/src/assets/image/employee2.png",
-            "img2": "/src/assets/image/employee2.png",
-            "img3": "/src/assets/image/employee2.png"
-        },
-        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
-        "repository": "https://github.com/wesleyvianam?tab=repositories",
-        "tags": {
-            "id": 4,
-            "label": "Mobile"
-        },
-        "technologies": [
-            {
-                "id": 1,
-                "label": "Laravel"
-            },
-            {
-                "id": 2,
-                "label": "Symfony"
-            },
-            {
-                "id": 3,
-                "label": "React"
-            },
-            {
-                "id": 4,
-                "label": "Node"
+                "label": "CSS"
             }
         ]
     },
     {
         "id": 8,
-        "title": "E-commerce",
-        "image": {
-            "img1": "/src/assets/image/employee2.png",
-            "img2": "/src/assets/image/employee2.png",
-            "img3": "/src/assets/image/employee2.png"
-        },
-        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
-        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "title": "Series Control Laravel",
+        "image": "/src/assets/image/laravel.png",
+        "descricao": "Projeto realizado em treinamento Alura.",
+        "repository": "https://github.com/wesleyvianam/series-control-laravel",
         "tags": {
-            "id": 1,
-            "label": "Full-stack"
+            "id": "Full-stack"
         },
         "technologies": [
             {
                 "id": 1,
-                "label": "Laravel"
+                "label": "PHP"
             },
             {
                 "id": 2,
-                "label": "Symfony"
+                "label": "Laravel"
             },
             {
                 "id": 3,
-                "label": "React"
+                "label": "HTML"
             },
             {
                 "id": 4,
-                "label": "Node"
+                "label": "Bootstrap"
             }
         ]
     },
     {
         "id": 9,
-        "title": "Loja Virtual",
-        "image": {
-            "img1": "/src/assets/image/employee2.png",
-            "img2": "/src/assets/image/employee2.png",
-            "img3": "/src/assets/image/employee2.png"
-        },
-        "descricao": "Me chamo Wesley, eu achei o seu projeto muito interessante e acredito fazer muito sentido com minhas experiências de desenvolvimento. Eu adoraria de ter a oportunidade de desenvolve-la.",
-        "repository": "https://github.com/wesleyvianam?tab=repositories",
+        "title": "Employee Manager",
+        "image": "/src/assets/image/employee.png",
+        "descricao": "Projeto gerenciador de funcionários",
+        "repository": "https://github.com/wesleyvianam/employee-management",
         "tags": {
-            "id": 1,
-            "label": "Full-stack"
+            "id": "Full-stack"
         },
         "technologies": [
             {
                 "id": 1,
-                "label": "Laravel"
+                "label": "PHP"
             },
             {
                 "id": 2,
-                "label": "Symfony"
+                "label": "HTML"
             },
             {
                 "id": 3,
-                "label": "React"
-            },
-            {
-                "id": 4,
-                "label": "Node"
+                "label": "CSS"
             }
         ]
     }

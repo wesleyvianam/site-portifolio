@@ -1,5 +1,5 @@
 import React from 'react';
-import avatar from '../../assets/image/profile.jpg';
+import avatar from '../../assets/image/profile.jpeg';
 import {FiMail} from 'react-icons/fi';
 import {BsPhone, BsCalendar3, BsInstagram} from 'react-icons/bs';
 import {SlLocationPin} from 'react-icons/sl';
@@ -13,7 +13,7 @@ export default function Profile() {
             
             <div>
                 <figure className="flex justify-center">
-                    <img src={avatar} className="rounded-3xl" width={180}/>
+                    <img src={avatar} className="rounded-[50%]" width={180}/>
                 </figure>
 
                 <div className='flex flex-col items-center'>

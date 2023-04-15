@@ -26,19 +26,9 @@ export default function Project() {
         </button>
       </div>
 
-      <div className="container mx-auto">
-        <div className="grid-cols-3 space-y-2 lg:space-y-0 lg:grid lg:gap-3 lg:grid-rows-2">
-            <div className="w-full col-span-2 row-span-2">
-                <img src={project.image.img1} className="rounded-xl"/>
-            </div>
-            <div className="w-full">
-                <img src={project.image.img2} className="rounded-xl"/>
-            </div>
-            <div className="w-full">
-                <img src={project.image.img3} className="rounded-xl"/>
-            </div>
-          </div>
-      </div>
+        <div>
+          <img src={project.image} className="rounded-xl w-[100%]"/>
+        </div>
 
       <div className="pt-8">
         <h2 className='pb-3 font-bold text-xl text-gold-color'>About the Project</h2>

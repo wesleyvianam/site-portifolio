@@ -4,7 +4,7 @@ import Projects from "./Projects";
 import Filter from "./Filter";
 
 export default function Portfolio() {
-  const [filtro, setFiltro] = React.useState<number | null>(null);
+  const [filtro, setFiltro] = React.useState<string | null>(null);
 
   return (
     <div>
