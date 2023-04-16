@@ -1,5 +1,5 @@
 import { useNavigate, useParams } from "react-router-dom"
-import listProject from "../../Data/data.json"
+import listProject from "../../Data/project.json"
 import Skills from "./Skills";
 import {BsGithub} from "react-icons/bs";
 

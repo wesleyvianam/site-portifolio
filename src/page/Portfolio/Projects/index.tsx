@@ -1,5 +1,5 @@
 import React from "react";
-import project from "../../../Data/data.json"; 
+import project from "../../../Data/project.json"; 
 import Project from "./Project";
 
 interface Props {
@@ -18,18 +18,27 @@ export default function Projects({filtro}: Props) {
         const newList = project.filter(item => testFilter(item.tags.id))
         setList(newList);
     }, [filtro])
+
     
     return (
-        <ul className="grid grid-cols-3 gap-4 mt-6">
+        <>
             {
                 list.length === 0 
-                    ? "Não há nenhum projeto em "
+                    ? 
+                        <div className="h-[300px] flex justify-center items-center">
+                            <span>
+                                Não há nenhum projeto na categoria <strong className="text-gold-color">{filtro}</strong>
+                            </span>
+                        </div>
                     : ""
             }
 
-            {list.map(item => (
-                <Project key={item.id} {...item} />
-            ))}
-        </ul>
+            <ul className="grid grid-cols-3 gap-4 mt-6">
+
+                {list.map(item => (
+                    <Project key={item.id} {...item} />
+                ))}
+            </ul>
+        </>
     )
 }
