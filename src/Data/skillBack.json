@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "label": "PHP"
+  },
+  {
+    "id": 2,
+    "label": "Symfony"
+  },
+  {
+    "id": 3,
+    "label": "Laravel"
+  },
+  {
+    "id": 4,
+    "label": "Node"
+  },
+  {
+    "id": 5,
+    "label": "Java"
+  }
+]

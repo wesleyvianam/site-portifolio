@@ -1,7 +1,7 @@
 import {GiElephant} from 'react-icons/gi'
 import {FaSymfony, FaLaravel, FaJava} from 'react-icons/fa'
 import {SiTypescript, SiJavascript, SiReact, SiTailwindcss, SiSass, SiStyledcomponents, SiNodedotjs} from 'react-icons/si'
-import Icon from '../Icon';
+import Icon from '../../../Components/Icon';
 
 export interface ITechnology {
   id: number;

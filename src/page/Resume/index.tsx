@@ -1,7 +1,8 @@
 import Navbar from "../../Components/Navbar";
 import Education from "./Education";
 import Experience from "./Experience";
-import Skills from "./Skills";
+import Back from "./Skills/Back";
+import Front from "./Skills/Front";
 
 export default function Resume() {
     return (
@@ -12,7 +13,9 @@ export default function Resume() {
 
             <Experience />
 
-            <Skills />
+            <Back />
+
+            <Front />
         </div>        
     )
 }

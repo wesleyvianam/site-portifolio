@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "label": "JavaScript"
+  },
+  {
+    "id": 2,
+    "label": "TypeScript"
+  },
+  {
+    "id": 3,
+    "label": "React"
+  },
+  {
+    "id": 4,
+    "label": "TailWind CSS"
+  },
+  {
+    "id": 5,
+    "label": "Sass"
+  },
+  {
+    "id": 6,
+    "label": "Styled Components"
+  }
+]
