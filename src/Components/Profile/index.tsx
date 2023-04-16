@@ -1,7 +1,6 @@
-import React from 'react';
 import avatar from '../../assets/image/profile.jpeg';
 import {FiMail} from 'react-icons/fi';
-import {BsPhone, BsCalendar3, BsInstagram} from 'react-icons/bs';
+import {BsCalendar3, BsInstagram} from 'react-icons/bs';
 import {SlLocationPin} from 'react-icons/sl';
 import {TbBrandLinkedin} from 'react-icons/tb';
 import {FiYoutube} from 'react-icons/fi'
@@ -58,7 +57,7 @@ export default function Profile() {
                         </div>
                         <div>
                             <span>LOCATION</span>
-                            <p className='text-sm'>Contagem MG, Brasil</p>
+                            <p className='text-sm'>Contagem MG, Brazil</p>
                         </div>
                     </li>
                 </ul>

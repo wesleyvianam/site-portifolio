@@ -4,6 +4,7 @@ import About from "../page/About/Index";
 import Contact from "../page/Contact";
 import Portfolio from "../page/Portfolio";
 import Resume from "../page/Resume";
+import NotFound from "../page/NotFound";
 
 export function RouteApp() {
 
@@ -15,6 +16,7 @@ export function RouteApp() {
                 <Route path="/resume" element={<Resume/>} />
                 <Route path="/portfolio" element={<Portfolio/>} />
                 <Route path="/project/:id" element={<Project />} />
+                <Route path="*" element={<NotFound />} />
             </Routes>
         </BrowserRouter>
     )

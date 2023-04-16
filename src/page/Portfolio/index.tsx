@@ -7,13 +7,16 @@ export default function Portfolio() {
   const [filtro, setFiltro] = React.useState<string | null>(null);
 
   return (
-    <div>
+    <>
       <Navbar children={'Portfolio'} />
+      
       <div className="px-8">
+        
         <Filter filtro={filtro} setFiltro={setFiltro} />
                     
         <Projects filtro={filtro} />
+        
       </div>
-    </div>
+    </>
   )
 }

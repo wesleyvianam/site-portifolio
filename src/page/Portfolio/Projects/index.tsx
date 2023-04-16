@@ -18,7 +18,6 @@ export default function Projects({filtro}: Props) {
         const newList = project.filter(item => testFilter(item.tags.id))
         setList(newList);
     }, [filtro])
-
     
     return (
         <>
